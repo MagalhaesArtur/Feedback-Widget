@@ -12,7 +12,7 @@ export function FeedbackSuccess({ backToFeedbackOpition }: feedbackTypeProp) {
         <CloseButton />
       </header>
       <div className="text-xl leading-6 flex flex-col items-center gap-2 p-6">
-        <Check weight="bold" className="bg-green-600 w-8 h-8" />
+        <Check weight="bold" className="bg-green-600 w-8 h-8 rounded-md" />
         <h1> Agradecemos o FeedBack! </h1>
         <button
           type="button"
