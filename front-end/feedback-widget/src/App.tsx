@@ -4,7 +4,7 @@ export function App() {
   return (
     <div>
       <div className="flex w-[100vw] h-[100vh]  m-auto justify-center items-center ">
-        <div className="border-2 bg-zinc-900 border-pinkzin-500 shadow-personalized w-[700px] flex-col h-[400px] rounded-md flex justify-between p-4 items-center">
+        <div className="border-2 bg-zinc-900 border-pinkzin-500 shadow-personalized w-[400px] flex-col h-[400px] rounded-md flex justify-between p-4 items-center md:w-[700px]">
           <header className="text-4xl text-center  text-lime-200">
             Widget Form
           </header>
