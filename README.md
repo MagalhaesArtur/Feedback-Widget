@@ -13,12 +13,12 @@ Link: [https://feedback-widget-project.vercel.app/](https://feedback-widget-proj
 
 <div>
     <h3>Web APP:</h3>
-    <img src="./assets/pic1.png" width="99%" alt="">
+    <img src="./front-end/feedback-widget/assets/pic1.png" width="99%" alt="">
     <p style="display: flex; margin-top: 5px;" >
-        <img src="./assets/pic2.png" width="24.6%" alt="">
-        <img src="./assets/pic3.png" width="24.6%" alt="">
-        <img src="./assets/pic4.png" width="24.6%" alt="">
-        <img src="./assets/pic5.png" width="24.6%" alt="">
+        <img src="./front-end/feedback-widget/assets/pic2.png" width="24.6%" alt="">
+        <img src="./front-end/feedback-widget/assets/pic3.png" width="24.6%" alt="">
+        <img src="./front-end/feedback-widget/assets/pic4.png" width="24.6%" alt="">
+        <img src="./front-end/feedback-widget/assets/pic5.png" width="24.6%" alt="">
     </p>
     <hr/>
     
