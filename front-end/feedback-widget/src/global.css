@@ -2,8 +2,29 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+  background: linear-gradient(
+    #121214 0%,
+    #2c165c 25%,
+    #881656 80%,
+    #ce3937 110%
+  );
+}
+
 body {
-  @apply bg-cinzinha-800 text-zinc-100;
+  height: 100vh;
+  width: 100vw;
+  @apply text-zinc-100;
+  background-repeat: no-repeat;
+
+  background-position: center;
+  background-image: url("../assets/astronauta1.png");
+}
+
+@media only screen and (max-width: 768px) {
+  body {
+    background-size: 300px;
+  }
 }
 
 * {
