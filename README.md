@@ -37,7 +37,7 @@ Link: [https://feedback-widget-project.vercel.app/](https://feedback-widget-proj
 ✔️ Express
 ✔️ Prisma
 ✔️ TailwindCSS
-✔️ Headless UI > acessibilidade
+✔️ Headless UI --> acessibilidade
 ✔️ html2canvas
 ✔️ phosphor-react
 ✔️ nodemailer
